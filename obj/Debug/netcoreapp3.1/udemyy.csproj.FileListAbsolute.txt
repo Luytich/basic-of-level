@@ -1,0 +1,26 @@
+C:\Users\Андрей\source\repos\udemyy\bin\Debug\netcoreapp3.1\udemyy.exe
+C:\Users\Андрей\source\repos\udemyy\bin\Debug\netcoreapp3.1\udemyy.deps.json
+C:\Users\Андрей\source\repos\udemyy\bin\Debug\netcoreapp3.1\udemyy.runtimeconfig.json
+C:\Users\Андрей\source\repos\udemyy\bin\Debug\netcoreapp3.1\udemyy.runtimeconfig.dev.json
+C:\Users\Андрей\source\repos\udemyy\bin\Debug\netcoreapp3.1\udemyy.dll
+C:\Users\Андрей\source\repos\udemyy\bin\Debug\netcoreapp3.1\udemyy.pdb
+C:\Users\Андрей\source\repos\udemyy\obj\Debug\netcoreapp3.1\udemyy.csprojAssemblyReference.cache
+C:\Users\Андрей\source\repos\udemyy\obj\Debug\netcoreapp3.1\udemyy.AssemblyInfoInputs.cache
+C:\Users\Андрей\source\repos\udemyy\obj\Debug\netcoreapp3.1\udemyy.AssemblyInfo.cs
+C:\Users\Андрей\source\repos\udemyy\obj\Debug\netcoreapp3.1\udemyy.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\source\repos\udemyy\obj\Debug\netcoreapp3.1\udemyy.dll
+C:\Users\Андрей\source\repos\udemyy\obj\Debug\netcoreapp3.1\udemyy.pdb
+C:\Users\Андрей\source\repos\udemyy\obj\Debug\netcoreapp3.1\udemyy.genruntimeconfig.cache
+D:\Solution\Udemy\source work\repos\udemyy\bin\Debug\netcoreapp3.1\udemyy.exe
+D:\Solution\Udemy\source work\repos\udemyy\bin\Debug\netcoreapp3.1\udemyy.deps.json
+D:\Solution\Udemy\source work\repos\udemyy\bin\Debug\netcoreapp3.1\udemyy.runtimeconfig.json
+D:\Solution\Udemy\source work\repos\udemyy\bin\Debug\netcoreapp3.1\udemyy.runtimeconfig.dev.json
+D:\Solution\Udemy\source work\repos\udemyy\bin\Debug\netcoreapp3.1\udemyy.dll
+D:\Solution\Udemy\source work\repos\udemyy\bin\Debug\netcoreapp3.1\udemyy.pdb
+D:\Solution\Udemy\source work\repos\udemyy\obj\Debug\netcoreapp3.1\udemyy.csprojAssemblyReference.cache
+D:\Solution\Udemy\source work\repos\udemyy\obj\Debug\netcoreapp3.1\udemyy.AssemblyInfoInputs.cache
+D:\Solution\Udemy\source work\repos\udemyy\obj\Debug\netcoreapp3.1\udemyy.AssemblyInfo.cs
+D:\Solution\Udemy\source work\repos\udemyy\obj\Debug\netcoreapp3.1\udemyy.csproj.CoreCompileInputs.cache
+D:\Solution\Udemy\source work\repos\udemyy\obj\Debug\netcoreapp3.1\udemyy.dll
+D:\Solution\Udemy\source work\repos\udemyy\obj\Debug\netcoreapp3.1\udemyy.pdb
+D:\Solution\Udemy\source work\repos\udemyy\obj\Debug\netcoreapp3.1\udemyy.genruntimeconfig.cache
